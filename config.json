@@ -72,6 +72,62 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "text-processing",
+      "title": "Python Text Processing",
+      "description": "Master string manipulation, file I/O operations, and text processing techniques including parsing, transformation, and data extraction.",
+      "path": "assignments/text-processing",
+      "dueDate": "2026-04-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-structures",
+      "title": "Data Structures in Python",
+      "description": "Master Python's core data structures: lists, dictionaries, sets, and tuples. Learn when to use each structure and solve problems efficiently.",
+      "path": "assignments/data-structures",
+      "dueDate": "2026-04-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Create effective data visualizations using matplotlib and plotly. Master static and interactive charts, dashboards, and data presentation techniques.",
+      "path": "assignments/data-visualization",
+      "dueDate": "2026-05-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "statistics",
+      "title": "Statistics with Python",
+      "description": "Master statistical analysis and data manipulation using pandas and numpy. Learn data cleaning, exploratory analysis, and hypothesis testing.",
+      "path": "assignments/statistics",
+      "dueDate": "2026-05-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
